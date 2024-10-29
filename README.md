@@ -35,7 +35,7 @@ pip install langchain-huggingface huggingface_hub transformers accelerate bitsan
    python app.py
    ```
 
-   Alternatively, you can access the chatbot directly on [Hugging Face Spaces](https://huggingface.co/spaces/Dilleswari/Gen-AI) without any local setup.
+   Alternatively, you can access the chatbot directly on [Hugging Face Spaces](https://huggingface.co/spaces/Dilleswari/Gen-AI) without any local setup and start interacting with the chatbot directly in your browser.
 
 ## Project Structure
 
@@ -49,10 +49,6 @@ Gen_AI/
 
 - **`app.py`**: Runs the main application locally if preferred over the web version.
 - **`notebooks/`**: Contains notebooks for model experimentation.
-
-## Try it Out Online
-
-No setup is required to use the Gen_AI Chatbot. Just visit [this Hugging Face Space](https://huggingface.co/spaces/Dilleswari/Gen-AI) to start interacting with the chatbot directly in your browser.
 
 ## Notes
 
